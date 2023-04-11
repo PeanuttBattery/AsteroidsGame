@@ -267,7 +267,7 @@ GameObject:
   - component: {fileID: 593324737}
   m_Layer: 9
   m_Name: Boundary
-  m_TagString: Untagged
+  m_TagString: Asteroid
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5195,7 +5195,7 @@ GameObject:
   - component: {fileID: 1131537117}
   m_Layer: 9
   m_Name: Boundary
-  m_TagString: Untagged
+  m_TagString: Asteroid
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5302,7 +5302,7 @@ GameObject:
   - component: {fileID: 1232850399}
   m_Layer: 9
   m_Name: Boundary
-  m_TagString: Untagged
+  m_TagString: Asteroid
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5360,7 +5360,7 @@ GameObject:
   - component: {fileID: 1257050780}
   m_Layer: 9
   m_Name: Boundary
-  m_TagString: Untagged
+  m_TagString: Asteroid
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
